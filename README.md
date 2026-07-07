@@ -1,2 +1,2 @@
-# pinglog-site
+# pinlog-site
 ぴんろぐ公式サイト（サポート・プライバシーポリシー）
